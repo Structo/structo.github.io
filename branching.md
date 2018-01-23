@@ -169,4 +169,4 @@ $ git push origin :hotfix-id                        // deletes the remote branch
 
 ## Workflow Diagram
 
-![Git Branching Model](./image/git-branching.png)  
+![Git Branching Model](./images/git-branching.png)  
