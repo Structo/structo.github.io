@@ -26,7 +26,6 @@ Time now is Thu Mar 12 18:12:04 +08 2018
 | NOTE the time above should be dynamic and be the current time of request.
 
 2. Upon requesting `date-tomorrow` from **client**, the **server** should respond the following (in `tomorrow-response` event name):
-
 ```
 Tomorrow is Fri Mar 13.
 ```
