@@ -1,4 +1,4 @@
-# React SocketIO Quiz
+# General Software Quiz
 
 This is a basic quiz to to assess your familiarity with the technology stack we're using. If you are familiar with the tech stack, this should only take 30-45 minutes of your time. If not familiar, it could take longer.
 
