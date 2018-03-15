@@ -1,6 +1,6 @@
 # React Frontend Quiz
 
-## Quiz:
+## The tasks:
 In this challenge, you will need to design a reusable React Component which need to exhibit the following:
 - High testability
 - High reusability (even across projects)
