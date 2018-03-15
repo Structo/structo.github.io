@@ -10,6 +10,8 @@ Please commit your source code to your **Github** repository as your commits pat
 - Node.JS (see [https://nodejs.org/en/](https://nodejs.org/en/))
 - SocketIO library (see [https://socket.io/](https://socket.io/))
 
+---
+
 ## The tasks:
 
 ### Task One
@@ -29,5 +31,7 @@ Time now is Thu Mar 12 18:12:04 +08 2018
 Tomorrow is Fri Mar 13.
 ```
 | NOTE the date above should be corresponding to time of request.
+
+---
 
 ### Task Two
