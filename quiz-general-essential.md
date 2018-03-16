@@ -34,3 +34,28 @@ Tomorrow is Fri Mar 13.
 ---
 
 ### Task Two
+
+Consider the following pseudocode:
+1. input n
+2. if n = 1 then STOP
+4. if n is odd then n = 3n + 1
+5. else n = n/2
+6. GOTO 2
+
+Given the input 5, the following sequence of numbers will be printed: 
+
+```
+5 16 8 4 2 1
+```
+
+In the example above, the integer 5 has a *chain-length* of 6.
+
+In this task, you are required to write a function which takes *i* and *j* as input and returns the maximum chain-length for integers between and including *i* and *j*.
+
+You can use following to test your function:
+
+| i   | j   | Chain-Length |
+| ----|:---:| ------------:|
+| 1   | 10  |      20      |
+| 100 | 200 |      125     |
+| 201 | 210 |      89      |
