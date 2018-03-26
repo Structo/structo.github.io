@@ -1,9 +1,11 @@
 # React Frontend Quiz
 
-## The tasks:
+## Task One
 In this challenge, you will need to design a reusable React Component which need to exhibit the following:
 - High testability
-- High reusability (even across projects)
+- High reusability (easy to imports across projects & components)
+- Good modularity
+- Easy to debug
 - Connect with Redux to respond to different state
 
 You can describe and explain your design, by:
@@ -14,5 +16,5 @@ You can describe and explain your design, by:
 	- Dependencies used
 	- Test suite used
 
-## Bonus
-Explain what is Redux __side-effects__, real life examples, and how would you handle it. You can name any 3rd party tools / libraries, and explain how would you use them efficiently for the development. You can answer this question in words, codes with comments in it or both.
+## Task Two
+Explain what is Redux __side-effects__, real life examples, and how would you handle it. You can name any 3rd party tools / libraries, and explain how would you use them efficiently for the development. Create a side effect behavior for the component you made on __Task One__. Explain your implementation and describe how would it help in development.
