@@ -7,4 +7,6 @@ Select a quiz below
 
 [Go to __Frontend ReactJS Quiz__](https://structo.github.io/quiz-frontend-mid.html)
 
+[Go to __Frontend ReactJS Quiz 2__](https://structo.github.io/quiz-frontend-high.html)
+
 [Go to __General Quiz__](https://structo.github.io/quiz-general-essential.html)
