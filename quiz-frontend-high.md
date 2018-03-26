@@ -3,6 +3,8 @@ This is a basic quiz to to assess your familiarity with the technology stack we'
 
 Please commit your source code to your **Github** repository as your commits pattern will be assessed as well. Once you have completed the quiz, do share to us the link to the repository.
 
+Please include the instruction on how to run your application in a `README.md` file.
+
 ## Introduction
 In a Redux-backed React App, actions are often dispatched from different places, eg: Mouse click on button, Asynchronous response from http APIs, etc. One challenge of writing an __Web Application__ is that application's actions are often triggered from _url changes_. 
 
