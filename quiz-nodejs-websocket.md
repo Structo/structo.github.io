@@ -12,8 +12,13 @@ Please commit your source code to your **Github** repository as your commits pat
 ## The task:
 
 In this challenge, you will need write a simple websocket and authentication server.
+
+### Part 1
 - Implement a RESTful login API by __email + password__ ( you can hardcode for the login credentials for this purpose )
 - Upon successful request, the Auth module should return a secured JWT
-- With the JWT, the user should then be allowed to establish a websocket connection to your websocket server. Some kind of authentication must happen during the initial establishment of the websocket connection.
+
+### Part 2
+- Create a web socket server which would periodically (5 sec) send the server time to the client
+- Devise a way to authenticate the incoming client connection request based on the JWT returned by the login API
 - Deny connection to the websocket server whenever the JWT is not valid
-- Design and write the test cases against the scenarios above
+- Design and write the test cases against the scenarios above 
