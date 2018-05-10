@@ -21,7 +21,7 @@ We will be having this every (maybe alternate) Friday. Time: 5PM onwards.
 
 Just join the Slack Channel [__#tell__](https://structo3d.slack.com/messages/C7JRWLL5V/) ( <-- Click it ) and announce your participation (+ your topic). We have only 6 slots per event.
 
-As for joining as audience, we will be sending an open invitation one week in advanced on Slack [#general](https://structo3d.slack.com/messages/C0CA0QLGH/) channel.
+As for joining as audience, we will be sending an open invitation one week in advanced on Slack [__#general__](https://structo3d.slack.com/messages/C0CA0QLGH/) channel.
 
 ## Code of Conduct
 
