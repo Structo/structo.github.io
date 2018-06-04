@@ -32,6 +32,11 @@ https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty
 * The solution provided must be executable locally and server.
 
 
+## Unit tests
+
+All of the APIs should have unit test coverage; invoking `npm test` should test your package. We suggest mocha but other frameworks are fine.
+
+
 ## Criteria
 
 Your work will be evaluated primarily on:
