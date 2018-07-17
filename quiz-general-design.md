@@ -1,6 +1,6 @@
 # Generalist Software Engineer Quiz
 
-This quiz aims to test your ability to come up with innovative solutions to problems. The following task should take no longer than 45 minutes.
+This quiz aims to test your ability to come up with innovative solutions to problems. The following tasks should take no longer than 45-60min.
 
 ## Task 1
 
