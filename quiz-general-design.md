@@ -1,6 +1,8 @@
 # Generalist Software Engineer Quiz
 
-This quiz aims to test your ability to come up with innovative solutions to problems. The following tasks should take no longer than 45-60min.
+This quiz aims to test your ability to come up with innovative solutions to problems. The following tasks should take no longer than 45-60min. 
+
+Please commit your solution to your **Github** repository as your commits pattern will be assessed as well. Once you have completed the quiz, do share to us the link to the repository.
 
 ## Task 1
 
