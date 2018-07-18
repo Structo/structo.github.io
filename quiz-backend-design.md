@@ -4,7 +4,7 @@ This quiz aims to test your ability to come up with innovative solutions to prob
 
 Please commit your solution to your **Github** repository as your commits pattern will be assessed as well. Once you have completed the quiz, do share to us the link to the repository.
 
-## Task 1
+## Task
 
 Structo 3D printers are IoT (Internet of Things) devices. The printers come with an on-board computer which runs a customized stripped-down version of Ubuntu. Design a system which would allow software updates to be rolled out. Address the following in your solution:
 
