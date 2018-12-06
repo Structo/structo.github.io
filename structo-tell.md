@@ -15,7 +15,7 @@ There’s no strict criteria on material, so anyone can share anything! Particip
 
 ## When?
 
-We will be having this every (maybe alternate) Friday. Time: 5PM onwards.
+We will be having this every (maybe alternate) Friday. Time: to be confirmed.
 
 ## I’M IN! How do I register?
 
