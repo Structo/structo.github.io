@@ -25,6 +25,6 @@ We expect the following:
 - There should be some user interface to inform user on the successfulness of the attempt, such as a simple popup.
 
 ## Sample mockup
-_**You are not required to adhere to the layout of the following mock-up.**_ Feelfree to design any layout, as long as they are sufficient to perform the tasks above.
+_**You are not required to adhere to the layout of the following mock-up.**_ Feel free to design any layout, as long as they are sufficient to perform the tasks above.
 
 ![Mockup 1](./wifiinterface.png)
