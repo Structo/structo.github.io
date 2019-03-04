@@ -6,8 +6,10 @@ Please commit your solution to your **Github** repository as your commits patter
 
 Please note that we are evaluating based on the quality of code & solution, __not__ the aesthetic of the graphical user interface (GUI). We will be testing your solution in a Linux operating system.
 
-We expect the use of the following:
+Optional library:
 - `NetworkManagerQt` (https://api.kde.org/frameworks/networkmanager-qt/html/index.html)
+
+Compulasory:
 - `QtQML` 
 
 ## Task 1
